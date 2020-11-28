@@ -1,0 +1,16 @@
+{
+"companyName": "Diamond Partner",
+"productName": "Glacier Guard",
+"productVersion": "0.1",
+"dataUrl": "Bear2DBuild.data.unityweb",
+"wasmCodeUrl": "Bear2DBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bear2DBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
